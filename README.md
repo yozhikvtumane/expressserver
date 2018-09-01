@@ -1,5 +1,7 @@
 # Simple HTTP Express.js server
 
+Node.js and NPM required.
+
 `npm init`
 
 `npm i express`
