@@ -4,4 +4,6 @@
 
 `npm i express`
 
+`node index.js`
+
 Put files in public folder
