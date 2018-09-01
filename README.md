@@ -4,4 +4,4 @@
 
 `npm i express`
 
-
+Put files in public folder
